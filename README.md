@@ -31,3 +31,5 @@ Setup Instructions
 3. Select the "File" tab.
 4. Choose the `notes-api.postman_collection.json` file.
 5. Click "Import"
+
+**This APIs require an authorization token to access its endpoints. The token must be included in the request headers as a Bearer token**
